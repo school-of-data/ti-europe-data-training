@@ -26,7 +26,6 @@ Firstly for TI, other NGOs that are working on promotion of gender equality or c
 - [UNDP Human Development Reports](http://hdr.undp.org/en/data)
 - [World Bank Data Population 2015](https://data.worldbank.org/indicator/SP.POP.TOTL)
 
-
 ### Project challenges
 
 - Some data related to specific country and year missing
